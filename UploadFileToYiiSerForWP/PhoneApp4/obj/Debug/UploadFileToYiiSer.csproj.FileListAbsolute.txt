@@ -1,0 +1,57 @@
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\PhoneApp4.dll
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\PhoneApp4.pdb
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\AppManifest.xaml
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\Bin\Debug\PhoneApp4_Debug_AnyCPU.xap
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\App.g.cs
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\MainPage.g.cs
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\PhoneApp4.g.resources
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\PhoneApp4.Resources.AppResources.resources
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\UploadFileToYiiSer.csproj.GenerateResource.Cache
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\PhoneApp4.dll
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\PhoneApp4.pdb
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSer\PhoneApp4\obj\Debug\XapCacheFile.xml
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\PhoneApp4.dll
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\PhoneApp4.pdb
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\AppManifest.xaml
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\PhoneApp4_Debug_AnyCPU.xap
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\App.g.cs
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\MainPage.g.cs
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.g.resources
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.Resources.AppResources.resources
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\UploadFileToYiiSer.csproj.GenerateResource.Cache
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.dll
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.pdb
+C:\Users\久鹏\Desktop\Web Service问题 ———替代解决方案\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\XapCacheFile.xml
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\PhoneApp4.dll
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\PhoneApp4.pdb
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\AppManifest.xaml
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\Bin\Debug\PhoneApp4_Debug_AnyCPU.xap
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\App.g.cs
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\MainPage.g.cs
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.g.resources
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.Resources.AppResources.resources
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\UploadFileToYiiSer.csproj.GenerateResource.Cache
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.dll
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\PhoneApp4.pdb
+C:\Users\久鹏\Desktop\OnePercentForWP\UploadFileToYiiSerForWP\PhoneApp4\obj\Debug\XapCacheFile.xml
