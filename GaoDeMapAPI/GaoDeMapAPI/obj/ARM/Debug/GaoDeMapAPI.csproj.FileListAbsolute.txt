@@ -48,3 +48,26 @@ F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\GaoDeMapAPI\Ga
 F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.dll
 F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.pdb
 F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\XapCacheFile.xml
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Assets\ApplicationIcon.png
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\GaoDeMapAPI.dll
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\GaoDeMapAPI.pdb
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\AppManifest.xaml
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Properties\WMAppManifest.xml
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\GaoDeMapAPI_Debug_ARM.xap
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\Microsoft.Phone.Controls.dll
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\Bin\ARM\Debug\AMapSDKV2Comp.dll
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\App.g.cs
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\DetailToiletInfoPage.g.cs
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\MainPage.g.cs
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.g.resources
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.Resources.AppResources.resources
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.csproj.GenerateResource.Cache
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.dll
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\GaoDeMapAPI.pdb
+E:\新建文件夹 (3)\OnePercentForWP\GaoDeMapAPI\GaoDeMapAPI\obj\ARM\Debug\XapCacheFile.xml
