@@ -27,3 +27,32 @@ F:\程序及项目\WP8.0\OnePercent 1.0\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debu
 F:\程序及项目\WP8.0\OnePercent 1.0\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DetailToiletInfoPage.g.cs
 F:\程序及项目\WP8.0\OnePercent 1.0\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DetailNewsInfoPage.g.cs
 F:\程序及项目\WP8.0\OnePercent 1.0\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\NewsMainPage.g.cs
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Assets\ApplicationIcon.png
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\DunKe.dll
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\DunKe.pdb
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\AppManifest.xaml
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Properties\WMAppManifest.xml
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\DunKe_Debug_ARM.xap
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\AMapSDKV2Comp.winmd
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Com.AMap.Api.Maps.dll
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Com.AMap.Api.Services.dll
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Google.ProtocolBuffers.dll
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\Microsoft.Phone.Controls.dll
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\Bin\ARM\Debug\AMapSDKV2Comp.dll
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DunKe.csprojResolveAssemblyReference.cache
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\App.g.cs
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DetailNewsInfoPage.g.cs
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DetailToiletInfoPage.g.cs
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\MainPage.g.cs
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\NewsMainPage.g.cs
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DunKe.g.resources
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DunKe.Resources.AppResources.resources
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DunKe.csproj.GenerateResource.Cache
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DunKe.dll
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\DunKe.pdb
+F:\程序及项目\WP8.0\蹲客历史文档备份\OnePercentForWP\DunKe\DunKe\obj\ARM\Debug\XapCacheFile.xml
